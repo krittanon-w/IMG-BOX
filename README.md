@@ -8,10 +8,10 @@
 // use image on src attribute
 <img src="/image.png" onclick="img_box(this)">
 
-// use image by specified src path/url
+// specify src path/url
 <img src="/image.png" onclick="img_box('/image.png')">
 
-// use image by specified src path/url with difference image path
+// specify src path/url with different image path
 <img src="/image.png" onclick="img_box('/alt_image.png')">
 ```
 
