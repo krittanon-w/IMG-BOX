@@ -25,3 +25,6 @@ var speed_img_box = 0.08
 var z_index_dv_img_box = 999
 var vopa_img_box, idpopup_img_box
 ```
+
+## TypeScript style
+https://gist.github.com/scf37/b9eed984a705243c27527a2036f09c0f
